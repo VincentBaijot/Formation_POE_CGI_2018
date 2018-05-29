@@ -1,0 +1,10 @@
+Lire;m&f&r&se
+Courir;b&e&se
+Restaurant;m&fa&s&g
+Cuisiner;m&fa&d&se
+Cinema;m&f&d&s&g
+Lire dehors;b&f&r&se
+Jeux de societes;m&f&d&g
+Bar;b&e&d&s&g
+Tennis;b&e&s&g
+Rugby;b&e&s&g

@@ -1,0 +1,10 @@
+b;Beau Temps
+m;Meteo moche
+f;Fatigue
+fa;Faim
+e;Plein d'energie
+r;Reflechir
+d;Detente
+s;Sortir
+g;En group
+se;Seul

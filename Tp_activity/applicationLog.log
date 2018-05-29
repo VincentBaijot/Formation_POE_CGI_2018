@@ -1,0 +1,12 @@
+mai 29, 2018 12:00:40 PM com.cgi.activity.util.InitLogger initLogger
+INFOS: Initialisation du fichier logger
+mai 29, 2018 12:00:40 PM com.cgi.activity.controller.LoadFile loadParameters
+INFOS: Debut lecture fichier parameter
+mai 29, 2018 12:00:40 PM com.cgi.activity.controller.LoadFile loadParameters
+INFOS: Fichier parameter correctement lu
+mai 29, 2018 12:00:40 PM com.cgi.activity.controller.LoadFile loadActivity
+INFOS: Debut lecture fichier activity
+mai 29, 2018 12:00:40 PM com.cgi.activity.controller.LoadFile loadActivity
+INFOS: Fichier activity correctement lu
+mai 29, 2018 12:00:40 PM com.cgi.activity.dao.DaoBddFactory <init>
+INFOS: Initialisation de la DAO factory reussi
